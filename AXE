@@ -1,0 +1,2 @@
+The Axe errors are due to each question rendering in DOM all at once. I'm currently rewriting this code to not do that,
+but wanted to get this project in.
